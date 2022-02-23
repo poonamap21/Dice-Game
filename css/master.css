@@ -1,0 +1,21 @@
+body{
+  background-color: #F9F8EB;
+  text-align: center;
+}
+.Heading{
+  font-family: 'Lobster', cursive;
+  color: #155263;
+  font-size: 8rem;
+}
+.dice{
+  align-items: center;
+  padding: 5% 3%;
+}
+.dice p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+footer{
+  text-align: center;
+  padding: 5% 10%;
+}
